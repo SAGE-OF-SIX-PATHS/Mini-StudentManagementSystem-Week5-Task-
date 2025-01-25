@@ -1,4 +1,4 @@
-#         A STUDENT MANAGEMENT APP BUILT ON JAVASCRIPT AND OBJECTRIENTED PROGRAMMING
+#         A STUDENT MANAGEMENT SYSTEM BUILT ON JAVASCRIPT AND OBJECT-ORIENTED PROGRAMMING.
 ##        Backend of a simple Student management system with three basic constructive functions namely;
 ###                 Add Student Class
 ###                 View Student Details Class
