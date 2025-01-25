@@ -140,12 +140,4 @@ student4.addGrade("CSC451", 83);
 ViewStudentDetails.viewDetails(143);
 CalculateAverageGrade.calculateAverage(143);
 
-
-
-
-
-
-
-
-
 console.log("All Students:", studentArray); // Display all students in the array
